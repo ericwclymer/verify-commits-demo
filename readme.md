@@ -1,3 +1,3 @@
 This is a readme file!
 
-Woof I'm a dog
+Hello, I'm a human
