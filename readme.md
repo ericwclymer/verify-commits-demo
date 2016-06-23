@@ -1,1 +1,3 @@
-This is a readme file edited by a dog?!
+This is a readme file.
+
+You'll be able to verify who committed it!
